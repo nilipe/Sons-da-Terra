@@ -14,6 +14,8 @@ PySide6.
 ### Bibliotecas utilizadas: 
 random: para recomendação de álbuns aleatórios.  
 os: utilizada para criar e manipular arquivos.
+json: facilita o trabalho com dados no formato JSON.
+time: manipula informações sobre tempo.
 
 ## Funcionalidades
 
