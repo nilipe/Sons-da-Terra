@@ -1,4 +1,5 @@
-# Sons-da-Terra
+# Sons da Terra.
+
 Desenvolvedores: Luiz Filipe e Maria Eduarda.
 
 ## Sobre o projeto:

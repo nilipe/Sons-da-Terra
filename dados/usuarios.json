@@ -1,0 +1,32 @@
+{
+    "maria@gmail.com": {
+        "nome": "Maria",
+        "senha": "123456",
+        "idade": "18"
+    },
+    "marianne@gmail.com": {
+        "nome": "Marianne",
+        "senha": "789456",
+        "idade": "16"
+    },
+    "maria2@gmail.com": {
+        "nome": "Maria",
+        "senha": "147852",
+        "idade": "18"
+    },
+    "macla@gmail.com": {
+        "nome": "Maria Clara",
+        "senha": "159357",
+        "idade": "21"
+    },
+    "cb97@gmail.com": {
+        "nome": "bangchan",
+        "email": "cb97@gmail.com",
+        "senha": "159632"
+    },
+    "luizfilipe@gmail.com": {
+        "nome": "luiz",
+        "email": "luizfilipe@gmail.com",
+        "senha": "123456"
+    }
+}
