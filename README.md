@@ -23,10 +23,11 @@ RF003 - Avaliações: o usuário pode dar nota e comentar os álbuns disponívei
 RF004 - Shout-box: o usuário pode sugerir álbuns que não se encontram na plataforma; 
 
 ## Release 2VA
+Implemento da Interface grafica(PySide6) e melhoria das funcionalidades.
 
 ## Artigo científico
 - [Artigo científico](https://drive.google.com/file/d/1gfkvOsn4WI0ayxP1Anir_iP3CMV6GKHr/view)
-- 
+  
 ## Fluxogramas do projeto
 
 - [Fluxograma do CRUD](https://drive.google.com/file/d/1LdmUFJJ50fUBIOtOuPOlCgfKJaNrkG8p/view?usp=drivesdk)
